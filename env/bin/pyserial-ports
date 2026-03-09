@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/winstone-onyango/Documents/Winstone-76/FINAL YEAR PROJECT/AUTOMATED GIMBAL SYSTEM/final-year-project-draft/dnnv3/env/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from serial.tools.list_ports import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
