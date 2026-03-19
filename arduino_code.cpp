@@ -1,5 +1,5 @@
 // Arduino code to receive coordinates and control servos
-#include <Servo.h>
+#include <Servo.h> 
 
 Servo panServo;   // Horizontal (X-axis) 
 Servo tiltServo;  // Vertical (Y-axis)
