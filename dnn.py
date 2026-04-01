@@ -6,7 +6,7 @@ import serial
 import time
 
 # URL of the IP camera stream
-camera_url = "http://10.2.39.62:8080/video"
+camera_url = "http://10.2.39.62:8080/video" 
 
 # Arduino Serial Configuration
 ARDUINO_PORT = "/dev/ttyUSB0"  # Change to your Arduino port (Windows: "COM3", Linux: "/dev/ttyUSB0" or "/dev/ttyACM0")
