@@ -33,14 +33,6 @@
   </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45%" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8/giphy.gif" width="45%" />
-</p>
-
----
 
 ## 🎯 System Flow
 
